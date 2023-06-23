@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "5753118312",
+    "project_id": "android-final-project-d0ec1",
+    "storage_bucket": "android-final-project-d0ec1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5753118312:android:cafa37f5b6fcf0b17ce5dd",
+        "android_client_info": {
+          "package_name": "edu.utap.myrecipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5753118312-3duh04bik9k6j1908dgdvrv698ftfstn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.utap.myrecipe",
+            "certificate_hash": "8ac1d8ddea8e150274f648535424d209e5a86de1"
+          }
+        },
+        {
+          "client_id": "5753118312-o5lpuiqnv47gqr6n8iagra9r8rfbfof6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBth0RXbulv7w728GwDOb9CnS84SKtDVbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5753118312-o5lpuiqnv47gqr6n8iagra9r8rfbfof6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

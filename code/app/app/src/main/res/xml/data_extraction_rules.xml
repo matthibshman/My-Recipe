@@ -1,0 +1,18 @@
+<!--<?xml version="1.0" encoding="utf-8"?>&lt;!&ndash;-->
+<!--   Sample data extraction rules file; uncomment and customize as necessary.-->
+<!--   See https://developer.android.com/about/versions/12/backup-restore#xml-changes-->
+<!--   for details.-->
+<!--&ndash;&gt;-->
+<data-extraction-rules>
+<!--    <cloud-backup>-->
+<!--        <include .../>-->
+<!--        <exclude .../>-->
+<!--        &ndash;&gt;-->
+<!--    </cloud-backup>-->
+<!--    &lt;!&ndash;-->
+<!--    <device-transfer>-->
+<!--        <include .../>-->
+<!--        <exclude .../>-->
+<!--    </device-transfer>-->
+<!--    &ndash;&gt;-->
+</data-extraction-rules>

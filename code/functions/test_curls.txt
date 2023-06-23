@@ -1,0 +1,7 @@
+curl -X POST -H "Content-Type:application/json" -H "X-MyHeader: 123" "http://localhost:5001/android-final-project-d0ec1/us-central1/saveRecipe" -d '{"username":"user","type":"saved","id":"1","recipe":{"id":"1","name":"Test Recipe","url":"http.test.com","dateAdded":"01/01/01","cooked":"false"}}'
+
+curl -X GET -H "Content-Type:application/json" -H "X-MyHeader: 123" "http://localhost:5001/android-final-project-d0ec1/us-central1/getRandomRecipes"
+
+curl -X GET -H "Content-Type:application/json" "http://localhost:5001/android-final-project-d0ec1/us-central1/getRecipeInstructions?id=659934"
+
+curl -X GET -H "Content-Type:application/json" "http://localhost:5001/android-final-project-d0ec1/us-central1/getUserRecipes?username=user&type=saved"
